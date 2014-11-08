@@ -1,0 +1,9 @@
+{
+  "name": "TDD with Angualr",
+  "private": true,
+  "dependencies": {
+    "angular": "~1.3.2",
+    "angular-mocks": "~1.3.2",
+    "angular-resource": "~1.3.2"
+  }
+}
